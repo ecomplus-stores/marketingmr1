@@ -5,5 +5,15 @@
   "thumbnail": "/img/uploads/teste-do-covid-vila-zelina.jpg",
   "description": "Realizamos o Teste do covid 19 aqui na Droga Zelina, Drogaria localizada na Vila Zelina",
   "meta_title": "Teste de Covid Vila Zelina - Droga Zelina",
-  "meta_description": "Esta com sintomas de Covid-19 e precisa fazer o teste para proteger todos ao seu redor? Venha já até uma de nossas Unidades e realize o Teste Covid, com muita segurança e eficácia."
+  "meta_description": "Esta com sintomas de Covid-19 e precisa fazer o teste para proteger todos ao seu redor? Venha já até uma de nossas Unidades e realize o Teste Covid, com muita segurança e eficácia.",
+  "sections": [
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6123af21cfbcd970598687fd:categories:Alergia e Gripe:/alergia-e-gripe",
+      "sort": "sales"
+    }
+  ]
 }
