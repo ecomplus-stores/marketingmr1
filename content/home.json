@@ -7,6 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-10-28T20:32:16.190Z",
+          "end": "2021-10-28T20:32:16.221Z",
+          "img": "/img/uploads/banneroutubrorosa.png",
+          "mobile_img": "/img/uploads/banner-responsivo-zelina.png",
+          "link": "https://drogazelina.com.br/perfumes-femininos",
+          "alt": "Perfumes importados Femininos com menor preço"
+        },
+        {
           "start": "2021-09-08T13:01:10.601Z",
           "end": "2022-09-30T13:01:10.626Z",
           "img": "/img/uploads/eximia-kera-d.jpg",
@@ -27,14 +35,6 @@
           "end": "",
           "img": "/img/uploads/a_sua_drogaria.png",
           "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.png"
-        },
-        {
-          "start": "2021-10-28T20:32:16.190Z",
-          "end": "2021-10-28T20:32:16.221Z",
-          "img": "/img/uploads/banneroutubrorosa.png",
-          "mobile_img": "/img/uploads/banner-responsivo-zelina.png",
-          "link": "https://drogazelina.com.br/perfumes-femininos",
-          "alt": "Perfumes importados Femininos com menor preço"
         }
       ]
     },
