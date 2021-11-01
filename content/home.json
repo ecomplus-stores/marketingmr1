@@ -7,12 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-10-28T20:32:16.190Z",
-          "end": "2021-10-28T20:32:16.221Z",
-          "img": "/img/uploads/banneroutubrorosa.png",
-          "mobile_img": "/img/uploads/banner-responsivo-zelina.png",
-          "link": "https://drogazelina.com.br/perfumes-femininos",
-          "alt": "Perfumes importados Femininos com menor preço"
+          "start": "2021-11-01T16:19:35.774Z",
+          "end": "2021-11-01T16:19:35.806Z",
+          "img": "/img/uploads/5.png",
+          "alt": "Perfumes Masculino",
+          "mobile_img": "/img/uploads/3.png",
+          "link": "https://drogazelina.com.br/perfumes-masculinos"
         },
         {
           "start": "2021-09-08T13:01:10.601Z",
@@ -37,12 +37,12 @@
           "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.png"
         },
         {
-          "start": "2021-11-01T16:19:35.774Z",
-          "end": "2021-11-01T16:19:35.806Z",
-          "img": "/img/uploads/5.png",
-          "alt": "Perfumes Masculino",
-          "mobile_img": "/img/uploads/3.png",
-          "link": "https://drogazelina.com.br/perfumes-masculinos"
+          "start": "2021-11-01T16:21:29.350Z",
+          "end": "2021-11-01T16:21:29.383Z",
+          "img": "/img/uploads/4.png",
+          "mobile_img": "/img/uploads/2.png",
+          "link": "https://drogazelina.com.br/perfumes-femininos",
+          "alt": "Perfumes Femininos"
         }
       ]
     },
