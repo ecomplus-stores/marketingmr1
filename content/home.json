@@ -35,6 +35,14 @@
           "end": "",
           "img": "/img/uploads/a_sua_drogaria.png",
           "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.png"
+        },
+        {
+          "start": "2021-11-01T16:19:35.774Z",
+          "end": "2021-11-01T16:19:35.806Z",
+          "img": "/img/uploads/5.png",
+          "alt": "Perfumes Masculino",
+          "mobile_img": "/img/uploads/3.png",
+          "link": "https://drogazelina.com.br/perfumes-masculinos"
         }
       ]
     },
