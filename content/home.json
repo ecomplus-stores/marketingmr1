@@ -7,6 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-11-12T19:17:45.755Z",
+          "end": "2021-12-31T19:17:45.792Z",
+          "img": "/img/uploads/banner-teste.jpg",
+          "mobile_img": "/img/uploads/bannerteste.jpg"
+        },
+        {
           "start": "2021-11-01T16:19:35.774Z",
           "end": "2021-11-30T20:05:53.585Z",
           "img": "/img/uploads/5.png",
@@ -35,12 +41,6 @@
           "end": "",
           "img": "/img/uploads/a_sua_drogaria.png",
           "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.png"
-        },
-        {
-          "start": "2021-11-12T19:17:45.755Z",
-          "end": "2021-12-31T19:17:45.792Z",
-          "img": "/img/uploads/banner-teste.jpg",
-          "mobile_img": "/img/uploads/bannerteste.jpg"
         }
       ]
     },
