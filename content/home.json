@@ -7,12 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-11-01T16:19:35.774Z",
-          "end": "2021-11-30T20:05:53.585Z",
-          "img": "/img/uploads/5.png",
-          "alt": "Perfumes Masculino",
-          "mobile_img": "/img/uploads/3.png",
-          "link": "https://drogazelina.com.br/perfumes-masculinos"
+          "start": "2022-03-28T16:17:39.007Z",
+          "end": "2022-05-31T16:17:37.474Z",
+          "img": "/img/uploads/banner-1-.png",
+          "alt": "Kérastase",
+          "mobile_img": "/img/uploads/banner-480-px-300-px-1-.png",
+          "link": "https://drogazelina.com.br/search?term=kerastase"
         },
         {
           "start": "2021-11-01T16:21:29.350Z",
@@ -44,7 +44,8 @@
           "link": "https://api.whatsapp.com/send/?phone=5511963942419&text&app_absent=0",
           "alt": "Teste Covid-19 Vila Zelina"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
