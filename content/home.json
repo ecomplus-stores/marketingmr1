@@ -45,7 +45,7 @@
           "alt": "Teste Covid-19 Vila Zelina"
         }
       ],
-      "full_width": true
+      "full_width": false
     },
     {
       "type": "info-bar",
