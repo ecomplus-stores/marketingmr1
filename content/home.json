@@ -7,12 +7,11 @@
       "autoplay": 6000,
       "slides": [
         {
-          "start": "2022-04-29T15:34:45.543Z",
-          "end": "2022-06-30T17:18:31.447Z",
-          "img": "/img/uploads/apresente-este-codigo-drogazelina-no-balcao-de-nossas-duas-unidades-e-ganhe-um-desconto-de-r-10-00-no-teste.png",
-          "mobile_img": "/img/uploads/banner-responsivo-zelina-2-.png",
-          "link": "https://drogazelina.com.br/search?term=culturelle",
-          "alt": "Culturelle"
+          "start": "2021-07-23T19:33:03.749Z",
+          "end": "",
+          "img": "/img/uploads/desconto-laboratorio.png",
+          "mobile_img": "",
+          "link": "https://web.whatsapp.com/send?phone=%2B5511963942419"
         },
         {
           "start": "2021-12-28T20:08:58.851Z",
@@ -23,19 +22,20 @@
           "alt": "Teste Covid-19 Vila Zelina"
         },
         {
+          "start": "2022-04-29T15:34:45.543Z",
+          "end": "2022-06-30T17:18:31.447Z",
+          "img": "/img/uploads/apresente-este-codigo-drogazelina-no-balcao-de-nossas-duas-unidades-e-ganhe-um-desconto-de-r-10-00-no-teste.png",
+          "mobile_img": "/img/uploads/banner-responsivo-zelina-2-.png",
+          "link": "https://drogazelina.com.br/search?term=culturelle",
+          "alt": "Culturelle"
+        },
+        {
           "start": "2021-11-01T16:21:29.350Z",
           "end": "2022-06-30T16:19:21.178Z",
           "img": "/img/uploads/banner.png",
           "mobile_img": "/img/uploads/banner-480-px-300-px-.png",
           "link": "https://drogazelina.com.br/search?term=vichy",
           "alt": "Produtos Vichy"
-        },
-        {
-          "start": "2021-07-23T19:33:03.749Z",
-          "end": "",
-          "img": "/img/uploads/desconto-laboratorio.png",
-          "mobile_img": "",
-          "link": "https://web.whatsapp.com/send?phone=%2B5511963942419"
         }
       ],
       "full_width": false
