@@ -49,7 +49,8 @@
       "limit": 24,
       "page": 1,
       "collection_id": "61169e84cfbcd970597d22ff:categories:Ofertas:/saude-e-bem-estar",
-      "sort": "news"
+      "sort": "lowest_price",
+      "title": "Ofertas do dia, Aproveite!"
     },
     {
       "type": "collection-shelf",
