@@ -58,7 +58,7 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
