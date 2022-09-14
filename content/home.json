@@ -58,7 +58,8 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "sort": "views"
+      "sort": "views",
+      "collection_id": "631cb81e73321213f86f4edc:categories:Floral Thérapi:/floral-therapi"
     },
     {
       "type": "collection-shelf",
