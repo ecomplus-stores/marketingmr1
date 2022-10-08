@@ -59,7 +59,8 @@
       "limit": 24,
       "page": 1,
       "sort": "views",
-      "collection_id": null
+      "collection_id": null,
+      "title": "Perfumes Importados"
     },
     {
       "type": "collection-shelf",
